@@ -1,0 +1,16 @@
+informações sobre a  estrutura de dados, desenvolvimento em C++
+
+
+- leitura do aqrquivo em jason
+- armazenamneto em listas 
+- estrutura de dados da agenda
+                        vetores por sala 
+                          cada sala iniciando sete da manha até as 19 horas com slot de 30 minutos    ( de segunda  a sexta feira)
+                              vetores das salas preenchidas com cada cirurgias e com slot de 30 minutos para higeinização
+                              
+- minimização do makspan
+  valor de makspan 
+  
+  realizar as cirurgias no menor tempo possível
+  
+                              
